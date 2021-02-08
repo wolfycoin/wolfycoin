@@ -6,7 +6,7 @@ WOLFYCOIN, or $WOLFY, is a meme-based ERC-20 deflationary token with friction-le
 
 ### PRIMARY
 
-We are in the process of bringing a real use-case not only to the $WOLFY token, but also to the entire meme-coin ecosystem. Announcements about this & releases coming soon.
+We are in the process of bringing a innovation to the DeFi ecosystem that will provide a real use-case for $WOLFY
 
 ### OTHER
 
